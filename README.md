@@ -8,14 +8,8 @@ An iPhone app that names the plant in front of you, tells you its story, and kee
 |---|---|
 | **[LeafID](https://marianaminsp.github.io/leafid-app/)** | The app's page: what it does, in its own voice. |
 | **[Case study](https://marianaminsp.github.io/leafid-app/case.html)** | The bet, the Botanical Card and key elements, five strategic calls, craft, status. |
-| **[How it's built](https://marianaminsp.github.io/leafid-app/build.html)** | How I work, the design system and the architecture. |
-| ↳ [Design system](https://marianaminsp.github.io/leafid-app/build.html#design-system) | Colours, type, radius, spacing, buttons and glyphs, taken from the app's Swift code. |
 | **[Privacy Policy](https://marianaminsp.github.io/leafid-app/privacy.html)** | What the app collects and why. |
 
 Website source: [marianaminsp/leafid-app](https://github.com/marianaminsp/leafid-app)
 
 **Contact:** [mariana.minafro@gmail.com](mailto:mariana.minafro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marianaminafrosp/)
-
----
-
-This repository's address, https://marianaminsp.github.io/, forwards to the LeafID case study.
