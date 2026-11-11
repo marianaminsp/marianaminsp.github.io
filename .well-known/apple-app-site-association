@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["497XL32H55.com.marianaminafro.leafid"],
+        "components": [
+          { "/": "/get", "comment": "Leaf ID share link: opens the app when installed" },
+          { "/": "/get/*" }
+        ]
+      }
+    ]
+  }
+}
